@@ -1,6 +1,6 @@
 # medicarestars
 
-The `medicarestars` package contains data collected from CMS's [Part C&D Performance Data](https://www.cms.gov/Medicare/Prescription-Drug-Coverage/PrescriptionDrugCovGenIn/PerformanceData) page, along with functions to compute cut points and star ratings using that data.
+The R package `medicarestars` contains data collected from CMS's [Part C&D Performance Data](https://www.cms.gov/Medicare/Prescription-Drug-Coverage/PrescriptionDrugCovGenIn/PerformanceData) page, along with functions to compute cut points and star ratings using that data.
 
 ## Install
 
